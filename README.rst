@@ -130,7 +130,7 @@ You can also bundle up several texts into a single JSON file, using ``wpm
       {
         "author": "Author Name",
         "title": "Title of Work",
-        "text": "The text to type here ..."
+        "text": "The text to type here ...",
         "id": 123,
       },
       ...
